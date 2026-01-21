@@ -1,17 +1,17 @@
 {
-    "name": "sonokai",
-    "displayName": "Sonokai",
-    "description": "High Contrast & Vivid Color Scheme based on Monokai Pro",
-    "version": "0.2.9",
-    "publisher": "sainnhe",
+    "name": "sonokai-fork",
+    "displayName": "Sonokai Fork",
+    "description": "High Contrast & Vivid Color Scheme based on Monokai Pro (Community maintained fork of sainnhe's original theme)",
+    "version": "0.3.0",
+    "publisher": "xckomorebi",
     "author": "sainnhe (https://github.com/sainnhe)",
-    "homepage": "https://github.com/sainnhe/sonokai-vscode",
+    "homepage": "https://github.com/xckomorebi/sonokai-vscode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sainnhe/sonokai-vscode.git"
+        "url": "https://github.com/xckomorebi/sonokai-vscode.git"
     },
     "bugs": {
-        "url": "https://github.com/sainnhe/sonokai-vscode/issues"
+        "url": "https://github.com/xckomorebi/sonokai-vscode/issues"
     },
     "license": "MIT",
     "keywords": [

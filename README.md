@@ -1,5 +1,5 @@
-> [!IMPORTANT]  
-> Since vscode is not my daily editor and lack of time, this repo is no longer maintained. Welcome to fork this repo and publish a new extension to marketplace.
+> [!NOTE]
+> This is a community-maintained fork of [sainnhe's original Sonokai theme](https://github.com/sainnhe/sonokai-vscode). The original repository is no longer actively maintained as the author has moved to other editors. This fork aims to keep the theme updated and compatible with the latest VS Code versions while preserving all the quality and design of the original work.
 
 ---
 
@@ -44,10 +44,11 @@
 ![espresso](https://user-images.githubusercontent.com/37491630/120172634-d656cc80-c235-11eb-93b1-30c9995997da.png)
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai">Marketplace</a> |
-  <a href="https://github.com/sainnhe/sonokai-vscode">Repository</a> |
-  <a href="https://github.com/sainnhe/sonokai-vscode/issues">Issues</a> |
-  <a href="https://github.com/sainnhe/sonokai-vscode/blob/master/CHANGELOG.md">Changelog</a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=xckomorebi.sonokai">Marketplace</a> |
+  <a href="https://github.com/xckomorebi/sonokai-vscode">Repository</a> |
+  <a href="https://github.com/xckomorebi/sonokai-vscode/issues">Issues</a> |
+  <a href="https://github.com/xckomorebi/sonokai-vscode/blob/master/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/sainnhe/sonokai-vscode">Original Repository</a>
   <br><br>
 </p>
 
@@ -73,7 +74,7 @@ This color scheme is a port of [Sonokai](https://github.com/sainnhe/sonokai) for
 ### Via Marketplace
 
 1. Press extensions icon in your vscode.
-2. Search `sainnhe.sonokai`.
+2. Search `xckomorebi.sonokai`.
 3. Select this extension and press `install` button.
 
 ### Via Quick Open
@@ -81,7 +82,7 @@ This color scheme is a port of [Sonokai](https://github.com/sainnhe/sonokai) for
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```
-ext install sainnhe.sonokai
+ext install xckomorebi.sonokai
 ```
 
 ## Usage
